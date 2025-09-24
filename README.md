@@ -27,3 +27,11 @@ Admin features: manage food classes and view system logs.
 Tech Stack
 
 Framework: MindSpore
+
+Contributors
+
+Barbosa AJ Timothy O.
+
+Ocampo JM
+
+Viloria JE
