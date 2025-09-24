@@ -25,6 +25,6 @@ displays results, while a FastAPI server handles inference and logging.
 - Language: Python 3.x
 
 ## Contributors
-Barbosa AJ Timothy
-Ocampo Juan Miguel
-Viloria Jose Enrique
+- Barbosa AJ Timothy
+- Ocampo Juan Miguel
+- Viloria Jose Enrique
